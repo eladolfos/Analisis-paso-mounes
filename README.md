@@ -12,6 +12,6 @@ These codes are useful to calculate the histograms and profiles about:
 8. The pulse area and deposited energy.
 9. The Rise time and pulse amplitude.
 
-You need a .root file with the data to analyze. You can see the archive called Final-report.pdf (in Spanish) as an example.
+You need a .root file with the data to analyze. You can see the archive called Final-report-elser.pdf (in Spanish) as an example.
 
 Finally, you can use these codes to make another project.
