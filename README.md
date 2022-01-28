@@ -1,4 +1,4 @@
-# Analysis of simulated electrons and muons throughout a Water Cherenkov Detector (WCD) with ROOT-CERN
+# Analysis of simulated electrons and muons through a Water Cherenkov Detector (WCD) with ROOT-CERN
 This repository contains a set of codes used in the final project of "Laboratorio avanzado" class, at Escuela de Ciencias Físicas y Matemáticas, Univesiad de San Carlos de Guatemala, around the mid of 2020. 
 
 These codes are useful to calculate the histograms and profiles about:
